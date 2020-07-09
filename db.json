@@ -1,0 +1,52 @@
+{
+  "students": [
+    {
+      "name": "Ashik",
+      "dept": "CSTE",
+      "roll": "ASH1701001M",
+      "phone": "012323465789",
+      "email": "ashik@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Tuhin",
+      "dept": "CSTE",
+      "roll": "ASH1701002M",
+      "phone": "012323465789",
+      "email": "tuhin@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Towhid",
+      "dept": "CSTE",
+      "roll": "ASH1701003M",
+      "phone": "0123456789",
+      "email": "towhid@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Fyjun",
+      "dept": "CSTE",
+      "roll": "BKH1701006F",
+      "phone": "0123456789",
+      "email": "fyjun@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Mahabuba",
+      "dept": "CSTE",
+      "roll": "BKH1701008F",
+      "phone": "0123456789",
+      "email": "maha@yahoo.com",
+      "id": 5
+    },
+    {
+      "name": "Sukarna",
+      "dept": "CSTE",
+      "roll": "ASH1701010M",
+      "phone": "012323465789",
+      "email": "sukarna@gmail.com",
+      "id": 6
+    }
+  ]
+}
